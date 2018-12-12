@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nunit-theory-spike", "nunit-theory-spike.csproj", "{F65FA91B-E33F-4FE3-BE89-189BDD73934F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65FA91B-E33F-4FE3-BE89-189BDD73934F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65FA91B-E33F-4FE3-BE89-189BDD73934F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65FA91B-E33F-4FE3-BE89-189BDD73934F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65FA91B-E33F-4FE3-BE89-189BDD73934F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC8F2199-6FB4-4DB5-9299-2A87AF12338F}
+	EndGlobalSection
+EndGlobal
